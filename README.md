@@ -1,7 +1,7 @@
 # Deep Learning Lecture Notes in Chinese
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-[![PDF Notes](https://img.shields.io/badge/PDF%20notes-145-blue.svg)](https://github.com/Chen-Jin-Han/Deep-Learning-Lecture-Notes-ZH)
+[![PDF Notes](https://img.shields.io/badge/PDF%20notes-146-blue.svg)](https://github.com/Chen-Jin-Han/Deep-Learning-Lecture-Notes-ZH)
 [![Language](https://img.shields.io/badge/language-Chinese-red.svg)](README.md)
 [![Status](https://img.shields.io/badge/status-active%20development-brightgreen.svg)](https://github.com/Chen-Jin-Han/Deep-Learning-Lecture-Notes-ZH/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/Chen-Jin-Han/Deep-Learning-Lecture-Notes-ZH?color=orange)](https://github.com/Chen-Jin-Han/Deep-Learning-Lecture-Notes-ZH/commits/main)
@@ -19,10 +19,10 @@
 
 ## 当前状态
 
-- 已整理第 1 课至第 37 课及第 39 课至第 66 课的中文讲义
+- 已整理第 1 课至第 37 课及第 39 课至第 67 课的中文讲义
 - 已收录 DeepSeek、Qwen、VisualGLM 及 MiniMax 系列讲义与相关参考论文
 - 已将课程讲义、参考论文及历史版本归入对应主题
-- 当前共收录 145 份 PDF
+- 当前共收录 146 份 PDF
 - 历史版本保存在对应知识点目录中，不设置独立的全局归档目录
 
 已整理 [77 篇参考论文](参考论文索引.md)，索引列出对应讲义、仓库 PDF 和原始链接。
@@ -31,7 +31,7 @@
 
 | 一级领域 | 主要内容 | 对应课次 |
 | :---: | :---: | :---: |
-| 数学基础 | 矩阵微积分、线性代数（含矩阵理论）、概率论、距离度量、信息论、复数与复分析、最优化原理 | 3、4、21、22、25、26、27、41、46、47、49—56、64—66 |
+| 数学基础 | 矩阵微积分、线性代数（含矩阵理论）、概率论、距离度量、信息论、复数与复分析、最优化原理 | 3、4、21、22、25、26、27、41、46、47、49—56、64—67 |
 | 学习理论 | 函数逼近、算法能力边界、流形假设 | 2、8、61 |
 | 模型训练 | 目标函数、优化器、参数初始化、训练动力学、损失景观、[参数高效微调](03_模型训练/06_参数高效微调/01_LoRA)（LoRA、AdaLoRA、LoRA+） | 1、5、10、15、18、19 |
 | 神经网络架构 | Transformer、RoPE、AttnRes、激活函数、归一化 | 20、35、36、42、63 |
@@ -109,6 +109,7 @@
 | 64 | 矩阵理论第二章 | 酉矩阵、QR 分解、酉相似、Schur 分解与 CS 分解 | 中文讲义 |
 | 65 | 最优化原理第八课 | 约束优化、投影法、外点罚函数法、内点障碍函数法 | 中文讲义 |
 | 66 | 最优化原理第九课 | 线性规划、标准型、基矩阵、基本可行解与单纯形法 | 中文讲义 |
+| 67 | 最优化原理第十课 | 单纯形法、判别数、最小比值规则、退化与二阶段法 | 中文讲义 |
 
 ## 推荐学习路径
 
@@ -116,7 +117,7 @@
 
 适合第一次系统学习深度学习的读者：
 
-1. 数学基础：第 3、4、21、22、25、26、27、41、46、47、49—56、64—66 课
+1. 数学基础：第 3、4、21、22、25、26、27、41、46、47、49—56、64—67 课
 2. 学习理论：第 2、8、61 课
 3. 模型训练：第 1、5、15、18、19 课
 4. 通用架构：第 20、35、36、42、63 课
